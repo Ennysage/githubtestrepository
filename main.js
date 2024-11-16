@@ -7,5 +7,5 @@ print(greet)
 
 
 function response(message) {
-    return message
+    return 'How are you doing'
 }
